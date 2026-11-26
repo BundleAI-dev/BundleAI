@@ -1,2 +1,2 @@
 # BundleAI
-An AI agent built on pollinations.ai
+An AI website built on pollinations.ai
